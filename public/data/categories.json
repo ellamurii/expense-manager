@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "Food"
+    },
+    {
+      "id": 2,
+      "name": "Clothing"
+    },
+    {
+      "id": 3,
+      "name": "Education"
+    },
+    {
+      "id": 4,
+      "name": "Entertainment"
+    },
+    {
+      "id": 5,
+      "name": "Utility Bills"
+    },
+    {
+      "id": 6,
+      "name": "Gas"
+    },
+    {
+      "id": 7,
+      "name": "Mortgage"
+    }
+]

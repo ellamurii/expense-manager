@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "notes": "Hamburger",
+      "category": "Food",
+      "amount": 100,
+      "date": "2020-05-12"
+    },
+    {
+      "id": 2,
+      "notes": "Pizza",
+      "category": "Food",
+      "amount": 500,
+      "date": "2020-05-12"
+    },
+    {
+      "id": 3,
+      "notes": "Water",
+      "category": "Utility Bills",
+      "amount": 1000,
+      "date": "2020-05-12"
+    }
+]
