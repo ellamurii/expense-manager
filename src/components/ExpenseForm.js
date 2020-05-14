@@ -13,7 +13,11 @@ const ExpenseForm = ({ handleSubmit, categories }) => {
   };
 
   return (
-    <form id="expense-form" className="ui form" onSubmit={handleSubmit}>
+    <form
+      id="expense-form"
+      className="ui form inverted"
+      onSubmit={handleSubmit}
+    >
       <div className="field">
         <label htmlFor="amount">Amount</label>
         <Field name="amount" component="input" type="number" />
